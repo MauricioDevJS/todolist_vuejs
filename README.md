@@ -6,33 +6,33 @@ Este projeto é uma aplicação de Lista de Tarefas construída utilizando Vue.j
 
 ## Tecnologias Utilizadas :computer:
 
--   **Vue.js**
--   **JavaScript**
--   **HTML**
+- **Vue.js**
+- **JavaScript**
+- **HTML**
 
 ## Funcionalidades :sparkles:
 
--   Adição de Tarefas
--   Exclusão de Tarefas
--   Conclusão de Tarefas
+- Adição de Tarefas
+- Exclusão de Tarefas
+- Conclusão de Tarefas
 
 ## Começando :rocket:
 
 1. Clone o repositório:
 
--   git clone https://github.com/MauricioDevJS/todolist_vuejs.git
+- git clone https://github.com/MauricioDevJS/todolist_vuejs.git
 
 2. Navegue até a pasta do projeto:
 
--   cd todolist_vuejs
+- cd todolist_vuejs
 
 3. Instale as dependências:
 
--   npm install
+- npm install
 
 4. Inicie o servidor de desenvolvimento:
 
--   npm run serve
+- npm run serve
 
 5. Acesse `http://localhost:8080` em seu navegador.
 
